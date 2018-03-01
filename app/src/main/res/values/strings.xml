@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">I Am Poor</string>
-    <string name="title">I AM POOR!</string>
+    <string name="title">I AM</string>
     <string name="coal">image_coal</string>
+    <string name="poorTitle">POOR!</string>
+    <string name="branding">Created by EzLIFE</string>
 
 </resources>
